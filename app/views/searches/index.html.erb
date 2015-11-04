@@ -1,0 +1,4 @@
+<% @searches.each do |search| %>
+  <%= link_to search.id.to_s, search_path(search.id) %>
+  <br>
+<% end %>

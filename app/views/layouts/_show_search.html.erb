@@ -1,0 +1,6 @@
+<% @search.sites.each do |site| %>
+  <%= site.url %>
+  <br>
+<% end %>
+<br>
+<%= link_to "REFRESH", search_path(@search.id), :remote => true %>

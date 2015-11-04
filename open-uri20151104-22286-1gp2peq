@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Aristotelian physics - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aristotelian_physics","wgTitle":"Aristotelian physics","wgCurRevisionId":688301041,"wgRevisionId":688301041,"wgArticleId":10279126,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with duplicate reference names","Use dmy dates from June 2013","Wikipedia introduction cleanup from February 2012","All pages needing cleanup","Articles covered by WikiProject Wikify from February 2012","All articles covered by WikiProject Wikify","Articles lacking reliable references from September 2010","All articles lacking reliable references","All articles with failed verification","Articles with failed verification from May 2010","Aristotle","History of physics","Natural philosophy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Aristotelian_physics","wgRelevantArticleId":10279126,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/75px-Aristoteles_Louvre.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1248980","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.4" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Aristotelian_physics" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aristotelian_physics&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aristotelian_physics&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aristotelian_physics" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.4/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Aristotelian_physics skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Aristotelian physics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-lead_rewrite" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section of this article</a> may need to be rewritten.</b> <span class="hide-when-compact">Please discuss this issue on the article's <a href="/wiki/Talk:Aristotelian_physics" title="Talk:Aristotelian physics">talk page</a>. Use the <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead layout guide</a> to ensure the section will be inclusive of all essential details.</span> <small><i>(February 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size:175%;"><a href="/wiki/Aristotelianism" title="Aristotelianism">Aristotelianism</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding:0 0 1.0em;"><a href="/wiki/File:Aristoteles_Louvre.jpg" class="image" title="Copy of a lost bronze bust of Aristotle made by Lysippos (4th century BCE)"><img alt="Copy of a lost bronze bust of Aristotle made by Lysippos (4th century BCE)" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/200px-Aristoteles_Louvre.jpg" width="200" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/300px-Aristoteles_Louvre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/400px-Aristoteles_Louvre.jpg 2x" data-file-width="600" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:none;text-align:center;border-bottom:1px solid #cee0f2;">Overview</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #cee0f2;">
+<ul>
+<li><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic school</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><strong class="selflink">Physics</strong></li>
+<li><a href="/wiki/Aristotelian_ethics" title="Aristotelian ethics">Ethics</a></li>
+<li><a href="/wiki/Term_logic" title="Term logic">Term logic</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Aristotelian_theology" title="Aristotelian theology">Theology</a>&#160;(<a href="/wiki/Unmoved_mover" title="Unmoved mover">unmoved mover</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:none;text-align:center;border-bottom:1px solid #cee0f2;">Ideas and interests</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #cee0f2;">
+<ul>
+<li><a href="/wiki/Correspondence_theory_of_truth" title="Correspondence theory of truth">Correspondence theory of truth</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><i><a href="/wiki/Hexis" title="Hexis">Hexis</a></i></li>
+<li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Virtue ethics</a>&#160;(<a href="/wiki/Golden_mean_(philosophy)" title="Golden mean (philosophy)">golden mean</a>)</li>
+<li><a href="/wiki/Four_causes" title="Four causes">Four causes</a></li>
+<li><i><a href="/wiki/Telos_(philosophy)" title="Telos (philosophy)">Telos</a></i></li>
+<li><i><a href="/wiki/Phronesis" title="Phronesis">Phronesis</a></i></li>
+<li><br />
+<i><a href="/wiki/Eudaimonia" title="Eudaimonia">Eudaimonia</a></i></li>
+<li><i><a href="/wiki/Arete_(moral_virtue)" title="Arete (moral virtue)">Arete</a></i></li>
+<li><br />
+<a href="/wiki/Temporal_finitism" title="Temporal finitism">Temporal finitism</a></li>
+<li><i><a href="/wiki/Antiperistasis" title="Antiperistasis">Antiperistasis</a></i></li>
+<li><a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">Philosophy of nature</a>&#160;(<a href="/wiki/Sublunary_sphere" title="Sublunary sphere">sublunary sphere</a>)</li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Potentiality_and_actuality" title="Potentiality and actuality">Potentiality and actuality</a></li>
+<li><a href="/wiki/Aristotle%27s_theory_of_universals" title="Aristotle's theory of universals">Universals</a>&#160;(<a href="/wiki/Substantial_form" title="Substantial form">substantial form</a>)</li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Hylomorphism" title="Hylomorphism">Hylomorphism</a></li>
+<li><i><a href="/wiki/Mimesis#Aristotle" title="Mimesis">Mimesis</a></i></li>
+<li><i><a href="/wiki/Catharsis" title="Catharsis">Catharsis</a></i></li>
+<li><a href="/wiki/Substance_theory" title="Substance theory">Substance</a>&#160;(<i><a href="/wiki/Ousia" title="Ousia">ousia</a></i>)</li>
+<li><a href="/wiki/Essence" title="Essence">Essence</a>&#160;/ <a href="/wiki/Accident_(philosophy)" title="Accident (philosophy)">Accident</a></li>
+<li><a href="/wiki/Category_of_being" title="Category of being">Category of being</a></li>
+<li><i><a href="/wiki/Minima_naturalia" title="Minima naturalia">Minima naturalia</a></i></li>
+<li><a href="/wiki/Magnanimity" title="Magnanimity">Magnanimity</a></li>
+<li><i><a href="/wiki/Common_sense" title="Common sense">Sensus communis</a></i></li>
+<li><a href="/wiki/Rational_animal" title="Rational animal">Rational animal</a></li>
+<li><a href="/wiki/Genus%E2%80%93differentia_definition" title="Genus–differentia definition">Genus–differentia</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:none;text-align:center;border-bottom:1px solid #cee0f2;"><a href="/wiki/Corpus_Aristotelicum" title="Corpus Aristotelicum">Corpus Aristotelicum</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #cee0f2;;font-style:italic;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physics</a></li>
+<li><a href="/wiki/Organon" title="Organon">Organon</a></li>
+<li><a href="/wiki/Nicomachean_Ethics" title="Nicomachean Ethics">Nicomachean Ethics</a></li>
+<li><a href="/wiki/Politics_(Aristotle)" title="Politics (Aristotle)">Politics</a></li>
+<li><a href="/wiki/Metaphysics_(Aristotle)" title="Metaphysics (Aristotle)">Metaphysics</a></li>
+<li><a href="/wiki/On_the_Soul" title="On the Soul">On the Soul</a></li>
+<li><a href="/wiki/Rhetoric_(Aristotle)" title="Rhetoric (Aristotle)">Rhetoric</a></li>
+<li><a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">Poetics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:none;text-align:center;border-bottom:1px solid #cee0f2;">
+<div class="hlist">
+<ul>
+<li>Influences</li>
+<li>Followers</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #cee0f2;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a></li>
+<li><a href="/wiki/Theophrastus" title="Theophrastus">Theophrastus</a></li>
+<li><a href="/wiki/Avicenna" title="Avicenna">Avicenna</a></li>
+<li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
+<li><a href="/wiki/Maimonides" title="Maimonides">Maimonides</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Alasdair_MacIntyre" title="Alasdair MacIntyre">Alasdair MacIntyre</a></li>
+<li><a href="/wiki/Martha_Nussbaum" title="Martha Nussbaum">Martha Nussbaum</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:none;text-align:center;border-bottom:1px solid #cee0f2;">Related topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-bottom:1px solid #cee0f2;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Platonism" title="Platonism">Platonism</a></li>
+<li><a href="/wiki/Commentaries_on_Aristotle" title="Commentaries on Aristotle">Commentaries on Aristotle</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a></li>
+<li><a href="/wiki/Conimbricenses" title="Conimbricenses">Conimbricenses</a></li>
+<li><a href="/wiki/Pseudo-Aristotle" title="Pseudo-Aristotle">Pseudo-Aristotle</a></li>
+<li><a href="/wiki/Aristotle%27s_views_on_women" title="Aristotle's views on women">Views on women</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none;"><span class="metadata"><a href="/wiki/File:Socrates.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/10px-Socrates.png" width="10" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/15px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/21px-Socrates.png 2x" data-file-width="326" data-file-height="500" /></a></span> <a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Aristotelianism" title="Template:Aristotelianism"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Aristotelianism" title="Template talk:Aristotelianism"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Aristotelianism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Aristotelian physics</b> is a form of <a href="/wiki/Natural_sciences" title="Natural sciences" class="mw-redirect">natural science</a> described in the works of the <a href="/wiki/Ancient_Greek_philosophy" title="Ancient Greek philosophy">Greek philosopher</a> <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> (384–322&#160;<a href="/wiki/Common_Era" title="Common Era">BCE</a>). In the <i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physics</a></i>, Aristotle established general principles of change that govern all natural bodies, both living and inanimate, celestial and terrestrial&#160;– including all motion, change with respect to place, change with respect to size or number, qualitative change of any kind; and "coming to be" (coming into <a href="/wiki/Existence" title="Existence">existence</a>, "generation") and "passing away" (no longer existing, "corruption").</p>
+<p>To Aristotle, "physics" was a broad field that included subjects such as the <a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">philosophy of mind</a>, <a href="/wiki/Sensory_experience" title="Sensory experience" class="mw-redirect">sensory experience</a>, <a href="/wiki/Memory" title="Memory">memory</a>, <a href="/wiki/Anatomy" title="Anatomy">anatomy</a> and <a href="/wiki/Biology" title="Biology">biology</a>. It constitutes the foundation of the thought underlying <a href="/wiki/Corpus_Aristotelicum#Physics_.28the_study_of_nature.29" title="Corpus Aristotelicum">many</a> of his works.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Concepts"><span class="tocnumber">1</span> <span class="toctext">Concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Terrestrial_change"><span class="tocnumber">1.1</span> <span class="toctext">Terrestrial change</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Elements"><span class="tocnumber">1.2</span> <span class="toctext">Elements</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Aether"><span class="tocnumber">1.2.1</span> <span class="toctext">Aether</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Four_causes"><span class="tocnumber">1.3</span> <span class="toctext">Four causes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Material"><span class="tocnumber">1.3.1</span> <span class="toctext">Material</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Formal"><span class="tocnumber">1.3.2</span> <span class="toctext">Formal</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Efficient"><span class="tocnumber">1.3.3</span> <span class="toctext">Efficient</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Final"><span class="tocnumber">1.3.4</span> <span class="toctext">Final</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Biology"><span class="tocnumber">1.4</span> <span class="toctext">Biology</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Organism_and_mechanism"><span class="tocnumber">1.4.1</span> <span class="toctext">Organism and mechanism</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Psychology"><span class="tocnumber">1.4.2</span> <span class="toctext">Psychology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Natural_place"><span class="tocnumber">1.5</span> <span class="toctext">Natural place</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Natural_motion"><span class="tocnumber">1.6</span> <span class="toctext">Natural motion</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Unnatural_motion"><span class="tocnumber">1.7</span> <span class="toctext">Unnatural motion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Chance"><span class="tocnumber">1.7.1</span> <span class="toctext">Chance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Continuum_and_vacuum"><span class="tocnumber">1.8</span> <span class="toctext">Continuum and vacuum</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Speed.2C_weight_and_resistance"><span class="tocnumber">1.9</span> <span class="toctext">Speed, weight and resistance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Medieval_commentary"><span class="tocnumber">2</span> <span class="toctext">Medieval commentary</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Life_and_death_of_Aristotelian_physics"><span class="tocnumber">3</span> <span class="toctext">Life and death of Aristotelian physics</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Works"><span class="tocnumber">5</span> <span class="toctext">Works</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Sources"><span class="tocnumber">8</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Concepts">Concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=1" title="Edit section: Concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote class="templatequote">
+<p>nature is everywhere the cause of order.<sup id="cite_ref-Lang2007_1-0" class="reference"><a href="#cite_note-Lang2007-1"><span>[</span>1<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— Aristotle, <i>Physics</i> VIII.1</cite></div>
+</blockquote>
+<p>While consistent with common human experience, Aristotle's principles were not based on controlled, quantitative experiments, so, while they account for many broad features of nature, they do not describe our universe in the precise, quantitative way now expected of science. Contemporaries of Aristotle like <a href="/wiki/Aristarchus_of_Samos" title="Aristarchus of Samos">Aristarchus</a> rejected these principles in favor of <a href="/wiki/Heliocentrism" title="Heliocentrism">heliocentrism</a>, but their ideas were not widely accepted. Aristotle's principles were difficult to disprove merely through casual everyday observation, but later development of the <a href="/wiki/Scientific_method" title="Scientific method">scientific method</a> challenged his views with <a href="/wiki/Experiment" title="Experiment">experiments</a> and careful measurement, using increasingly advanced technology such as the <a href="/wiki/Telescope" title="Telescope">telescope</a> and <a href="/wiki/Vacuum_pump" title="Vacuum pump">vacuum pump</a>.</p>
+<blockquote class="templatequote">
+<p>In claiming novelty for their doctrines, those natural philosophers who developed the “new science” of the seventeenth century frequently contrasted “Aristotelian” physics with their own. Physics of the former sort, so they claimed, emphasized the qualitative at the expense of the quantitative, neglected mathematics and its proper role in physics (particularly in the analysis of local motion), and relied on such suspect explanatory principles as final causes and “occult” essences. Yet in his <i>Physics</i> Aristotle characterizes physics or the “science of nature” as pertaining to magnitudes (<i>megethê</i>), motion (or “process” or “gradual change” – <i>kinêsis</i>), and time (<i>chronon</i>) (<i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Phys</a></i> III.4 202b30–1). Indeed, the <i>Physics</i> is largely concerned with an analysis of motion, particularly local motion, and the other concepts that Aristotle believes are requisite to that analysis.<sup id="cite_ref-White2009_2-0" class="reference"><a href="#cite_note-White2009-2"><span>[</span>2<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— Michael J. White, "Aristotle on the Infinite, Space, and Time" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Terrestrial_change">Terrestrial change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=2" title="Edit section: Terrestrial change">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="celestial_unchanging"></span></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Four_elements_representation.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Four_elements_representation.svg/220px-Four_elements_representation.svg.png" width="220" height="184" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Four_elements_representation.svg/330px-Four_elements_representation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Four_elements_representation.svg/440px-Four_elements_representation.svg.png 2x" data-file-width="333" data-file-height="278" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Four_elements_representation.svg" class="internal" title="Enlarge"></a></div>
+The four terrestrial elements</div>
+</div>
+</div>
+<p>Unlike the eternal and unchanging celestial <a href="/wiki/Aether_(classical_element)" title="Aether (classical element)">aether</a>, each of the four terrestrial elements are capable of changing into either of the two elements they share a property with: e.g. the cold and wet (<a href="/wiki/Water_(classical_element)" title="Water (classical element)">water</a>) can transform into the hot and wet (<a href="/wiki/Air_(classical_element)" title="Air (classical element)">air</a>) or the cold and dry (<a href="/wiki/Earth_(classical_element)" title="Earth (classical element)">earth</a>) and any apparent change into the hot and dry (<a href="/wiki/Fire_(classical_element)" title="Fire (classical element)">fire</a>) is actually a <a href="/wiki/Gray_code" title="Gray code">two-step</a> process. These properties are predicated of an actual substance relative to the work it is able to do; that of heating or chilling and of <a href="/wiki/Desiccation" title="Desiccation">desiccating</a> or moistening. The four elements exist <i>only</i> with regard to this capacity and relative to some potential work. The celestial element is eternal and unchanging, so only the four terrestrial elements account for "coming to be" and "passing away"&#160;– or, in the terms of Aristotle's <a href="/wiki/On_Generation_and_Corruption" title="On Generation and Corruption"><i>De Generatione et Corruptione</i> (Περὶ γενέσεως καὶ φθορᾶς)</a>, "generation" and "corruption".</p>
+<h3><span class="mw-headline" id="Elements">Elements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=3" title="Edit section: Elements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to Aristotle, the <a href="/wiki/Classical_element" title="Classical element">elements</a> which compose the terrestrial spheres are different from that constituting the celestial spheres.<sup id="cite_ref-utk_3-0" class="reference"><a href="#cite_note-utk-3"><span>[</span>3<span>]</span></a></sup> He believed that four elements make up everything under the Moon, i.e. everything terrestrial: <a href="/wiki/Earth_(classical_element)" title="Earth (classical element)">earth</a>, <a href="/wiki/Air_(classical_element)" title="Air (classical element)">air</a>, <a href="/wiki/Fire_(classical_element)" title="Fire (classical element)">fire</a> and <a href="/wiki/Water_(classical_element)" title="Water (classical element)">water</a>.<sup class="reference" id="ref_Anone"><a href="#endnote_Anone">[a]</a></sup><sup id="cite_ref-edu_4-0" class="reference"><a href="#cite_note-edu-4"><span>[</span>4<span>]</span></a></sup> He also held that the heavens are made of a special weightless and incorruptible (i.e. unchangeable) fifth element called "<a href="/wiki/Aether_(classical_element)" title="Aether (classical element)">aether</a>".<sup id="cite_ref-edu_4-1" class="reference"><a href="#cite_note-edu-4"><span>[</span>4<span>]</span></a></sup> Aether also has the name "quintessence", meaning, literally, "fifth being".<sup id="cite_ref-ari_5-0" class="reference"><a href="#cite_note-ari-5"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Aristotle_Physica_page_1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aristotle_Physica_page_1.png/200px-Aristotle_Physica_page_1.png" width="200" height="295" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aristotle_Physica_page_1.png/300px-Aristotle_Physica_page_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aristotle_Physica_page_1.png/400px-Aristotle_Physica_page_1.png 2x" data-file-width="525" data-file-height="774" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aristotle_Physica_page_1.png" class="internal" title="Enlarge"></a></div>
+A page from an 1837 edition of the <a href="/wiki/Ancient_Greek_philosophy" title="Ancient Greek philosophy">ancient Greek philosopher</a> <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s <i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physica</a></i>, a book addressing a variety of subjects including the <a href="/wiki/Philosophy_of_nature" title="Philosophy of nature" class="mw-redirect">philosophy of nature</a> and topics now part of its modern-day namesake: <a href="/wiki/Physics" title="Physics">physics</a>.</div>
+</div>
+</div>
+<p>Aristotle considered heavy substances such as <a href="/wiki/Iron" title="Iron">iron</a> and other metals to consist primarily of the element earth, with a smaller amount of the other three terrestrial elements. Other, lighter objects, he believed, have less earth, relative to the other three elements in their composition.<sup id="cite_ref-ari_5-1" class="reference"><a href="#cite_note-ari-5"><span>[</span>5<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Aether">Aether</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=4" title="Edit section: Aether">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote relarticle mainarticle">Main articles: <a href="/wiki/Aether_(classical_element)" title="Aether (classical element)">Aether (classical element)</a> and <a href="/wiki/Dynamics_of_the_celestial_spheres" title="Dynamics of the celestial spheres">Dynamics of the celestial spheres</a></div>
+<p>The Sun, Moon, planets and stars&#160;– are embedded in perfectly concentric "<a href="/wiki/Celestial_spheres" title="Celestial spheres">crystal spheres</a>" that rotate eternally at fixed rates. Because the celestial spheres are incapable of any change except rotation, the terrestrial <a href="/wiki/Sphere_of_fire" title="Sphere of fire">sphere of fire</a> must account for the heat, starlight and occasional <a href="/wiki/Meteorite" title="Meteorite">meteorites</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> The lunar sphere is the only celestial sphere that actually comes in contact with the <a href="/wiki/Sublunary_sphere" title="Sublunary sphere">sublunary orb's</a> changeable, terrestrial matter, dragging the rarefied fire and air along underneath as it rotates.<sup id="cite_ref-Sorabji2005_7-0" class="reference"><a href="#cite_note-Sorabji2005-7"><span>[</span>7<span>]</span></a></sup> Like <a href="/wiki/Homer" title="Homer">Homer</a>'s <a href="/wiki/Aether_(mythology)" title="Aether (mythology)"><i>æthere</i> (αἰθήρ)</a>&#160;– the "pure air" of <a href="/wiki/Mount_Olympus" title="Mount Olympus">Mount Olympus</a>&#160;– was the divine counterpart of the air breathed by mortal beings (άήρ, <i>aer</i>). The celestial spheres are composed of the special element <i>aether</i>, eternal and unchanging, the sole capability of which is a uniform circular motion at a given rate (relative to the <a href="/wiki/Diurnal_motion" title="Diurnal motion">diurnal motion</a> of the outermost sphere of fixed stars).</p>
+<p>The concentric, aetherial, cheek-by-jowl "<a href="/wiki/Celestial_spheres" title="Celestial spheres">crystal spheres</a>" that carry the Sun, Moon and stars move eternally with unchanging circular motion. Spheres are embedded within spheres to account for the "wandering stars" (i.e. the <a href="/wiki/Classical_planet" title="Classical planet">planets</a>, which, in comparison with the Sun, Moon and stars, appear to move erratically). Later, the belief that all spheres are concentric was forsaken in favor of <a href="/wiki/Ptolemy" title="Ptolemy">Ptolemy</a>'s <a href="/wiki/Deferent_and_epicycle" title="Deferent and epicycle">deferent and epicycle</a> model. Aristotle submits to the calculations of astronomers regarding the total number of spheres and various accounts give a number in the neighborhood of fifty spheres. An <a href="/wiki/Unmoved_mover" title="Unmoved mover">unmoved mover</a> is assumed for each sphere, including a "prime mover" for the sphere of <a href="/wiki/Fixed_stars" title="Fixed stars">fixed stars</a>. The unmoved movers do not push the spheres (nor could they, being immaterial and dimensionless) but are the <a href="/wiki/Four_causes" title="Four causes">final cause</a> of the spheres' motion, i.e. they explain it in a way that's similar to the explanation "the soul is moved by beauty".</p>
+<h3><span class="mw-headline" id="Four_causes">Four causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=5" title="Edit section: Four causes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main articles: <a href="/wiki/Four_causes" title="Four causes">Four causes</a> and <a href="/wiki/Teleology" title="Teleology">Teleology</a></div>
+<p>According to Aristotle, there are four ways to explain the <i>aitia</i> or causes of change. He writes that "we do not have knowledge of a thing until we have grasped its why, that is to say, its cause."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-SEP_Four_Causes_9-0" class="reference"><a href="#cite_note-SEP_Four_Causes-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Aristotle held that there were four kinds of causes.<sup id="cite_ref-SEP_Four_Causes_9-1" class="reference"><a href="#cite_note-SEP_Four_Causes-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Material">Material</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=6" title="Edit section: Material">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The material cause of a thing is that of which it is made. For a table, that might be wood; for a statue, that might be bronze or marble.</p>
+<blockquote class="templatequote">
+<p>“In one way we say that the <i>aition</i> is that out of which. as existing, something comes to be, like the bronze for the statue, the silver for the phial, and their genera” (194b2 3—6). By “genera,” Aristotle means more general ways of classifying the matter (e.g. “metal”; “material”); and that will become important. A little later on. he broadens the range of the material cause to include letters (of syllables), fire and the other elements (of physical bodies), parts (of wholes), and even premisses (of conclusions: Aristotle re-iterates this claim, in slightly different terms, in <i><a href="/wiki/Posterior_Analytics" title="Posterior Analytics">An. Post</a></i> II. 11).<sup id="cite_ref-bca-216_11-0" class="reference"><a href="#cite_note-bca-216-11"><span>[</span>11<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— R.J. Hankinson, "The Theory of the Physics" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h4><span class="mw-headline" id="Formal">Formal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=7" title="Edit section: Formal">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The formal cause of a thing is the <a href="/wiki/Essence" title="Essence">essential</a> property that makes it the <a href="/wiki/Substance_theory" title="Substance theory">kind of thing</a> it is. In <i><a href="/wiki/Metaphysics_(Aristotle)" title="Metaphysics (Aristotle)">Metaphysics</a></i> Book Α Aristotle emphasizes that form is closely related to <a href="/wiki/Substance_theory" title="Substance theory">essence and definition</a>. He says for example that the ratio 2:1, and number in general, is the cause of the <a href="/wiki/Octave" title="Octave">octave</a>.</p>
+<blockquote class="templatequote">
+<p>"Another [cause] is the form and the exemplar: this is the formula (logos) of the essence <i>(to ti en einai)</i>, and its genera, for instance the ratio 2:1 of the octave” (<i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Phys</a></i> 11.3 194b26—8)... Form is not just shape... We are asking (and this is the connection with essence, particularly in its canonical Aristotelian formulation) what it is to be some thing. And it is a feature of musical harmonics (first noted and wondered at by the Pythagoreans) that intervals of this type do indeed exhibit this ratio in some form in the instruments used to create them (the length of pipes, of strings, etc.). In some sense, the ratio explains what all the intervals have in common, why they turn out the same.<sup id="cite_ref-bca-217_12-0" class="reference"><a href="#cite_note-bca-217-12"><span>[</span>12<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— R.J. Hankinson, "Cause" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h4><span class="mw-headline" id="Efficient">Efficient</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=8" title="Edit section: Efficient">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The efficient cause of a thing is the primary agency by which its matter took its form. For example, the efficient cause of a baby is a parent of the same species and that of a table is a carpenter, who knows the form of the table. In his <i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physics</a></i> II, 194b29—32, Aristotle writes: "there is that which is the primary originator of the change and of its cessation, such as the deliberator who is responsible [sc. for the action] and the father of the child, and in general the producer of the thing produced and the changer of the thing changed".</p>
+<blockquote class="templatequote">
+<p>Aristotle’s examples here are instructive: one case of mental and one of physical causation, followed by a perfectly general characterization. But they conceal (or at any rate fail to make patent) a crucial feature of Aristotle’s concept of efficient causation, and one which serves to distinguish it from most modern homonyms. For Aristotle, any process requires a constantly operative efficient cause as long as it continues. This commitment appears most starkly to modern eyes in Aristotle’s discussion of projectile motion: what keeps the projectile moving after it leaves the hand? “Impetus,” “momentum,” much less “inertia,” are not possible answers. There must be a mover, distinct (at least in some sense) from the thing moved, which is exercising its motive capacity at every moment of the projectile’s flight (see <i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Phys</a></i> VIII. 10 266b29—267a11). Similarly, in every case of animal generation, there is always some thing responsible for the continuity of that generation, although it may do so by way of some intervening instrument (<i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Phys</a></i> II.3 194b35—195a3).<sup id="cite_ref-bca-217_12-1" class="reference"><a href="#cite_note-bca-217-12"><span>[</span>12<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— R.J. Hankinson, "Causes" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h4><span class="mw-headline" id="Final">Final</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=9" title="Edit section: Final">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The final cause is that for the sake of which something takes place, its aim or teleological purpose: for a germinating seed, it is the adult plant,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> for a ball at the top of a ramp, it is coming to rest at the bottom, for an eye, it is seeing, for a knife, it is cutting.</p>
+<blockquote class="templatequote">
+<p>Goals have an explanatory function: that is a commonplace, at least in the context of action-ascriptions. Less of a commonplace is the view espoused by Aristotle, that finality and purpose are to be found throughout nature. which is for him the realm of those things which contain within themselves principles of movement and rest (i.e. efficient causes); thus it makes sense to attribute purposes not only to natural things themselves, but also to their parts: the parts of a natural whole exist for the sake of the whole. As Aristotle himself notes, “for the sake of” locutions are ambiguous: "<i>A</i> is for the sake of <i>B</i>" may mean that <i>A</i> exists or is undertaken in order to bring <i>B</i> about; or it may mean that <i>A</i> is for <i>B’s</i> benefit (<i><a href="/wiki/De_Anima" title="De Anima" class="mw-redirect">An</a></i> II.4 415b2—3, 20—1); but both types of finality have, he thinks. a crucial role to play in natural. as well as deliberative, contexts. Thus a man may exercise for the sake of his health: and so “health,” and not just the hope of achieving it, is the cause of his action (this distinction is not trivial). But the eyelids are for the sake of the eye (to protect it: <i><a href="/wiki/Parts_of_Animals" title="Parts of Animals">PA</a></i> II.1 3) and the eye for the sake of the animal as a whole (to help it function properly: cf. <i><a href="/wiki/De_Anima" title="De Anima" class="mw-redirect">An</a></i> II.7).<sup id="cite_ref-bca-218_14-0" class="reference"><a href="#cite_note-bca-218-14"><span>[</span>14<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— R.J. Hankinson, "Causes" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Biology">Biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=10" title="Edit section: Biology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to Aristotle, the science of living things proceeds by gathering observations about each natural kind of animal, organizing them into <a href="/wiki/Genus-differentia_definition" title="Genus-differentia definition" class="mw-redirect">genera and species</a> (the <i>differentiae</i> in <i><a href="/wiki/History_of_Animals" title="History of Animals">History of Animals</a></i>) and then going on to study the causes (in <i><a href="/wiki/Parts_of_Animals" title="Parts of Animals">Parts of Animals</a></i> and <i><a href="/wiki/Generation_of_Animals" title="Generation of Animals">Generation of Animals</a></i>, his three main biological works).<sup id="cite_ref-Henry2009_15-0" class="reference"><a href="#cite_note-Henry2009-15"><span>[</span>15<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>The four causes of animal generation can be summarized as follows. The mother and father represent the material and efficient causes, respectively. The mother provides the matter out of which the embryo is formed, while the father provides the agency that informs that material and triggers its development. The formal cause is the definition of the animal’s substantial being (<i><a href="/wiki/Generation_of_Animals" title="Generation of Animals">GA</a></i> I.1 715a4: <i>ho logos tês ousias</i>). The final cause is the adult form, which is the end for the sake of which development takes place.<sup id="cite_ref-Henry2009_15-1" class="reference"><a href="#cite_note-Henry2009-15"><span>[</span>15<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— Devin M. Henry, "Generation of Animals" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h4><span class="mw-headline" id="Organism_and_mechanism">Organism and mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=11" title="Edit section: Organism and mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote relarticle mainarticle">Main articles: <a href="/wiki/Organism_(philosophy)" title="Organism (philosophy)" class="mw-redirect">Organism (philosophy)</a> and <a href="/wiki/Mechanism_(philosophy)" title="Mechanism (philosophy)">Mechanism (philosophy)</a></div>
+<p>The four elements make up the uniform materials such as blood, flesh and bone, which are themselves the matter out of which are created the non-uniform organs of the body (e.g. the heart, liver and hands) "which in turn, as parts, are matter for the functioning body as a whole (<i><a href="/wiki/Parts_of_Animals" title="Parts of Animals">PA</a></i> II. 1 646a 13—24)".<sup id="cite_ref-bca-216_11-1" class="reference"><a href="#cite_note-bca-216-11"><span>[</span>11<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>[There] is a certain obvious conceptual economy about the view that in natural processes naturally constituted things simply seek to realize in full actuality the potentials contained within them (indeed, this is what <i>is</i> for them to be natural); on the other hand, as the detractors of Aristotelianism from the seventeenth century on were not slow to point out, this economy is won at the expense of any serious empirical content. Mechanism, at least as practiced by Aristotle’s contemporaries and predecessors, may have been explanatorily inadequate — but at least it was an <i>attempt</i> at a general account given in reductive terms of the lawlike connections between things. Simply introducing what later reductionists were to scoff at as “occult qualities” does not explain — it merely, in the manner of Molière’s famous satirical joke, serves to re-describe the effect. Formal talk, or so it is said, is vacuous.<br />
+<br />
+Things are not however quite as bleak as this. For one thing, there’s no point in trying to engage in reductionist science if you don’t have the wherewithal, empirical and conceptual, to do so successfully: science shouldn't be simply unsubstantiated speculative metaphysics. But more than that. there is a point to describing the world in such teleologically loaded terms: it makes sense of things in a way that atomist speculations do not. And further. Aristotle’s talk of species-forms is not as empty as his opponents would insinuate. He doesn't simply say that things do what they do because that's the sort of thing they do: the whole point of his classificatory biology, most clearly exemplified in <i><a href="/wiki/Parts_of_Animals" title="Parts of Animals">PA</a></i>, is to show what sorts of function go with what, which presuppose which and which are subservient to which. And in this sense, formal or functional biology is susceptible of a type of reductionism. We start, he tells us, with the basic animal kinds which we all pre-theoretically (although not indefeasibly) recognize (cf. <i><a href="/wiki/Parts_of_Animals" title="Parts of Animals">PA</a></i> I.4): but we then go on to show how their parts relate to one another: why it is, for instance that only blooded creatures have lungs, and how certain structures in one species are analogous or homologous to those in another (such as scales in fish, feathers in birds, hair in mammals). And the answers, for Aristotle, are to be found in the economy of functions, and how they all contribute to the overall well-being (the final cause in this sense) of the animal.<sup id="cite_ref-bca-222_16-0" class="reference"><a href="#cite_note-bca-222-16"><span>[</span>16<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— R.J. Hankinson, "The Relations between the Causes" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<p><i>See also <a href="/wiki/Organic_Form" title="Organic Form" class="mw-redirect">Organic Form</a>.</i></p>
+<h4><span class="mw-headline" id="Psychology">Psychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=12" title="Edit section: Psychology">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to Aristotle, perception and thought are similar, though not exactly alike in that perception is concerned only with the external objects that are acting on our sense organs at any given time, whereas we can think about anything we choose. Thought is about <a href="/wiki/Aristotle%27s_theory_of_universals" title="Aristotle's theory of universals">universal forms</a>, in so far as they've been successfully understood, based on our memory of having encountered instances of those forms directly.<sup id="cite_ref-Caston2009_17-0" class="reference"><a href="#cite_note-Caston2009-17"><span>[</span>17<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>Aristotle’s theory of cognition rests on two central pillars: his account of perception and his account of thought. Together, they make up a significant portion of his psychological writings, and his discussion of other mental states depends critically on them. These two activities, moreover, are conceived of in an analogous manner, at least with regard to their most basic forms. Each activity is triggered by its object – each, that is, is about the very thing that brings it about. This simple causal account explains the reliability of cognition: perception and thought are, in effect, transducers, bringing information about the world into our cognitive systems, because, at least in their most basic forms, they are infallibly about the causes that bring them about (<i><a href="/wiki/De_Anima" title="De Anima" class="mw-redirect">An</a></i> III.4 429a13–18). Other, more complex mental states are far from infallible. But they are still tethered to the world, in so far as they rest on the unambiguous and direct contact perception and thought enjoy with their objects.<sup id="cite_ref-Caston2009_17-1" class="reference"><a href="#cite_note-Caston2009-17"><span>[</span>17<span>]</span></a></sup></p>
+<div class="templatequotecite"><cite>— Victor Caston, "Phantasia and Thought" in <i>Blackwell Companion to Aristotle</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Natural_place">Natural place</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=13" title="Edit section: Natural place">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Aristotelian explanation of gravity is that all bodies move toward their natural place. For the elements earth and water, that place is the center of the (<a href="/wiki/Geocentric" title="Geocentric" class="mw-redirect">geocentric</a>) universe;<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> the natural place of water is a concentric shell around the earth because earth is heavier; it sinks in water. The natural place of air is likewise a concentric shell surrounding that of water; bubbles rise in water. Finally, the natural place of fire is higher than that of air but below the innermost celestial sphere (carrying the Moon).</p>
+<p>In Book <i>Delta</i> of his <i>Physics</i> (IV.5), Aristotle defines <i>topos</i> (place) in terms of two bodies, one of which contains the other: a "place" is where the inner surface of the former (the containing body) touches the outer surface of the other (the contained body). This definition remained dominant until the beginning of the 17th century, even though it had been questioned and debated by philosophers since antiquity.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> The most significant early critique was made in terms of geometry by the 11th-century Arab <a href="/wiki/Polymath" title="Polymath">polymath</a> al-Hasan <a href="/wiki/Ibn_al-Haytham" title="Ibn al-Haytham" class="mw-redirect">Ibn al-Haytham</a> (<a href="/wiki/Alhazen" title="Alhazen">Alhazen</a>) in his <i>Discourse on Place</i>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Natural_motion">Natural motion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=14" title="Edit section: Natural motion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Terrestrial objects rise or fall, to a greater or lesser extent, according to the ratio of the four elements of which they are composed. For example, earth, the heaviest element, and water, fall toward the center of the cosmos; hence the Earth and for the most part its oceans, will have already come to rest there. At the opposite extreme, the lightest elements, air and especially fire, rise up and away from the center.<sup id="cite_ref-MaudlinPPST2_21-0" class="reference"><a href="#cite_note-MaudlinPPST2-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>The elements are not proper <i><a href="/wiki/Substance_theory" title="Substance theory">substances</a></i> in Aristotelian theory (or the modern sense of the word). Instead, they are <a href="/wiki/Abstraction" title="Abstraction">abstractions</a> used to explain the varying natures and behaviors of actual materials in terms of ratios between them.</p>
+<p>Motion and change are closely related in Aristotelian physics. Motion, according to Aristotle, involved a change from <a href="/wiki/Potentiality" title="Potentiality" class="mw-redirect">potentiality</a> to <a href="/wiki/Actuality" title="Actuality" class="mw-redirect">actuality</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> He gave example of four types of change.</p>
+<p>Aristotle proposed that the speed at which two identically shaped objects sink or fall is <a href="/wiki/Directly_proportional" title="Directly proportional" class="mw-redirect">directly proportional</a> to their weights and <a href="/wiki/Inversely_proportional" title="Inversely proportional" class="mw-redirect">inversely proportional</a> to the density of the medium through which they move.<sup id="cite_ref-Gindikin1988_23-0" class="reference"><a href="#cite_note-Gindikin1988-23"><span>[</span>23<span>]</span></a></sup> While describing their <a href="/wiki/Terminal_velocity" title="Terminal velocity">terminal velocity</a>, Aristotle must stipulate that there would be no limit at which to compare the speed of atoms <a href="/wiki/Free_fall" title="Free fall">falling through a vacuum</a>, (they could move indefinitely fast because there would be no particular place for them to come to rest in the void). Now however it is understood that at any time prior to achieving terminal velocity in a relatively resistance-free medium like air, two such objects are expected to have nearly identical speeds because both are experiencing a force of gravity proportional to their masses and have thus been accelerating at nearly the same rate. This became especially apparent from the eighteenth century when <a href="/wiki/Partial_vacuum" title="Partial vacuum" class="mw-redirect">partial vacuum</a> experiments began to be made, but some two hundred years earlier <a href="/wiki/Galileo" title="Galileo" class="mw-redirect">Galileo</a> had already demonstrated that objects of different weights reach the ground in similar times.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Unnatural_motion">Unnatural motion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=15" title="Edit section: Unnatural motion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apart from the natural tendency of terrestrial exhalations to <a href="/wiki/Buoyancy" title="Buoyancy">rise</a> and objects to <a href="/wiki/Gravity" title="Gravity">fall</a>, unnatural or <a href="/wiki/Force" title="Force">forced</a> motion from side to side results from the turbulent collision and sliding of the objects as well as <a href="/wiki/Nuclear_transmutation" title="Nuclear transmutation">transmutation</a> between the elements (<a href="/wiki/On_Generation_and_Corruption" title="On Generation and Corruption">On Generation and Corruption</a>).</p>
+<h4><span class="mw-headline" id="Chance">Chance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=16" title="Edit section: Chance">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In his <i><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physics</a></i> Aristotle examines <a href="/wiki/Accident_(philosophy)" title="Accident (philosophy)">accidents</a> (συμβεβηκός, <i><a href="/wiki/Sumbebekos" title="Sumbebekos" class="mw-redirect">sumbebekos</a></i>) that have no cause but chance. "Nor is there any definite cause for an accident, but only chance (τύχη, <i>tukhe</i>), namely an indefinite (ἀόριστον) cause" (<i><a href="/wiki/Metaphysics_(Aristotle)" title="Metaphysics (Aristotle)">Metaphysics</a></i> V, 1025a25).</p>
+<blockquote>
+<p>It is obvious that there are principles and causes which are generable and destructible apart from the actual processes of generation and destruction; for if this is not true, everything will be of necessity: that is, if there must necessarily be some cause, other than accidental, of that which is generated and destroyed. Will this be, or not? Yes, if this happens; otherwise not (<i><a href="/wiki/Metaphysics_(Aristotle)" title="Metaphysics (Aristotle)">Metaphysics</a></i> VI, 1027a29).</p>
+</blockquote>
+<h3><span class="mw-headline" id="Continuum_and_vacuum">Continuum and vacuum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=17" title="Edit section: Continuum and vacuum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aristotle argues against the indivisibles of <a href="/wiki/Democritus" title="Democritus">Democritus</a> (which differ considerably from the <a href="/wiki/Corpuscularianism" title="Corpuscularianism">historical</a> and the <a href="/wiki/Atomic_theory" title="Atomic theory">modern</a> use of the term "<a href="/wiki/Atom" title="Atom">atom</a>"). As a place without anything existing at or within it, Aristotle argued against the possibility of a vacuum or void. Because he believed that the speed of an object's motion is proportional to the force being applied (or, in the case of natural motion, the object's weight) and inversely proportional to the viscosity of the medium, he reasoned that objects moving in a void would move indefinitely fast&#160;– and thus any and all objects surrounding the void would immediately fill it. The void, therefore, could never form.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<p>The "<a href="/wiki/Void_(astronomy)" title="Void (astronomy)">voids</a>" of modern-day astronomy (such as the <a href="/wiki/Local_Void" title="Local Void">Local Void</a> adjacent to <a href="/wiki/Milky_Way" title="Milky Way">our own galaxy</a>) have the opposite effect: ultimately, bodies off-center are ejected from the void due to the gravity of the material outside.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Speed.2C_weight_and_resistance">Speed, weight and resistance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=18" title="Edit section: Speed, weight and resistance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ideal speed of a terrestrial object is <a href="/wiki/Directly_proportional" title="Directly proportional" class="mw-redirect">directly proportional</a> to its weight. In nature however, <a href="/wiki/Vacuum" title="Vacuum">vacuum</a> does not occur, the matter obstructing an object's path is a limiting factor that is <a href="/wiki/Inversely_proportional" title="Inversely proportional" class="mw-redirect">inversely proportional</a> to the <a href="/wiki/Viscosity" title="Viscosity">viscosity</a> of the medium.</p>
+<h2><span class="mw-headline" id="Medieval_commentary">Medieval commentary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=19" title="Edit section: Medieval commentary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Text_document_with_red_question_mark.svg" class="image"><img alt="Text document with red question mark.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>may contain inappropriate or misinterpreted <a href="/wiki/Wikipedia:CITE" title="Wikipedia:CITE" class="mw-redirect">citations</a> that do not <a href="/wiki/Wikipedia:V" title="Wikipedia:V" class="mw-redirect">verify</a> the text</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Aristotelian_physics&amp;action=edit">improve this article</a> by checking for inaccuracies. (<a href="/wiki/Help:Editing" title="Help:Editing">help</a>, <a href="/wiki/Talk:Aristotelian_physics" title="Talk:Aristotelian physics">talk</a>, <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">get involved!</a>)</span> <small><i>(September 2010)</i></small></span></td>
+</tr>
+</table>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Theory_of_impetus" title="Theory of impetus">Theory of impetus</a></div>
+<p>The Aristotelian theory of motion came under criticism and modification during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. Modifications began with <a href="/wiki/John_Philoponus" title="John Philoponus">John Philoponus</a> in the 6th century, who partly accepted Aristotle's theory that "continuation of motion depends on continued action of a force" but modified it to include his idea that a hurled body also acquires an inclination (or "motive power") for movement away from whatever caused it to move, an inclination that secures its continued motion. This impressed virtue would be temporary and self-expending, meaning that all motion would tend toward the form of Aristotle's natural motion.</p>
+<p>In <i><a href="/wiki/The_Book_of_Healing" title="The Book of Healing">The Book of Healing</a></i> (1027), the 11th-century <a href="/wiki/Persia" title="Persia" class="mw-redirect">Persian</a> polymath <a href="/wiki/Avicenna" title="Avicenna">Avicenna</a> developed Philoponean theory into the first coherent alternative to Aristotelian theory. Inclinations in the <a href="/wiki/Avicennism" title="Avicennism">Avicennan</a> theory of motion were not self-consuming but permanent forces whose effects were dissipated only as a result of external agents such as air resistance, making him "the first to conceive such a permanent type of impressed virtue for non-natural motion". Such a self-motion (<i>mayl</i>) is "almost the opposite of the Aristotelian conception of violent motion of the projectile type, and it is rather reminiscent of the principle of <a href="/wiki/Inertia" title="Inertia">inertia</a>, i.e. <a href="/wiki/Newton%27s_first_law_of_motion" title="Newton's first law of motion" class="mw-redirect">Newton's first law of motion</a>."<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<p>The eldest <a href="/wiki/Ban%C5%AB_M%C5%ABs%C4%81" title="Banū Mūsā">Banū Mūsā</a> brother, Ja'far Muhammad ibn Mūsā ibn Shākir (800-873), wrote the <i>Astral Motion</i> and <i>The Force of Attraction</i>. The Persian physicist, <a href="/wiki/Ibn_al-Haytham" title="Ibn al-Haytham" class="mw-redirect">Ibn al-Haytham</a> (965-1039) discussed the theory of attraction between bodies. It seems that he was aware of the <a href="/wiki/Magnitude_(mathematics)" title="Magnitude (mathematics)">magnitude</a> of <a href="/wiki/Acceleration" title="Acceleration">acceleration</a> due to <a href="/wiki/Gravity" title="Gravity">gravity</a> and he discovered that the heavenly bodies "were accountable to the <a href="/wiki/Physical_law" title="Physical law">laws of physics</a>".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> The Persian polymath <a href="/wiki/Ab%C5%AB_Rayh%C4%81n_al-B%C4%ABr%C5%ABn%C4%AB" title="Abū Rayhān al-Bīrūnī" class="mw-redirect">Abū Rayhān al-Bīrūnī</a> (973-1048) was the first to realize that <a href="/wiki/Acceleration" title="Acceleration">acceleration</a> is connected with non-uniform motion (as later expressed by <a href="/wiki/Newton%27s_second_law_of_motion" title="Newton's second law of motion" class="mw-redirect">Newton's second law of motion</a>).<sup id="cite_ref-Biruni_29-0" class="reference"><a href="#cite_note-Biruni-29"><span>[</span>29<span>]</span></a></sup> During his debate with <a href="/wiki/Avicenna" title="Avicenna">Avicenna</a>, al-Biruni also criticized the Aristotelian theory of gravity firstly for denying the existence of <a href="//en.wiktionary.org/wiki/levity" class="extiw" title="wiktionary:levity">levity</a> or gravity in the <a href="/wiki/Celestial_sphere" title="Celestial sphere">celestial spheres</a>; and, secondly, for its notion of <a href="/wiki/Circular_motion" title="Circular motion">circular motion</a> being an <a href="/wiki/Intrinsic_and_extrinsic_properties" title="Intrinsic and extrinsic properties">innate property</a> of the <a href="/wiki/Astronomical_object" title="Astronomical object">heavenly bodies</a>.<sup id="cite_ref-Berjak_30-0" class="reference"><a href="#cite_note-Berjak-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>In 1121, <a href="/wiki/Al-Khazini" title="Al-Khazini">al-Khazini</a>, in <i>The Book of the Balance of Wisdom</i>, proposed that the gravity and <a href="/wiki/Gravitational_potential_energy" title="Gravitational potential energy" class="mw-redirect">gravitational potential energy</a> of a body varies depending on its distance from the centre of the Earth.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2010)">not in citation given</span></a></i>]</sup> <a href="/wiki/Hibat_Allah_Abu%27l-Barakat_al-Baghdaadi" title="Hibat Allah Abu'l-Barakat al-Baghdaadi" class="mw-redirect">Hibat Allah Abu'l-Barakat al-Baghdaadi</a> (1080–1165) wrote <i>al-Mu'tabar</i>, a critique of Aristotelian physics where he negated Aristotle's idea that a constant <a href="/wiki/Force" title="Force">force</a> produces uniform motion, as he realized that a force applied continuously produces <a href="/wiki/Acceleration" title="Acceleration">acceleration</a>, a fundamental law of <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a> and an early foreshadowing of <a href="/wiki/Newton%27s_second_law_of_motion" title="Newton's second law of motion" class="mw-redirect">Newton's second law of motion</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> Like Newton, he described acceleration as the rate of change of <a href="/wiki/Speed" title="Speed">speed</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>In the 14th century, <a href="/wiki/Jean_Buridan" title="Jean Buridan">Jean Buridan</a> developed the <a href="/wiki/Theory_of_impetus" title="Theory of impetus">theory of impetus</a> as an alternative to the Aristotelian theory of motion. The theory of impetus was a precursor to the concepts of <a href="/wiki/Inertia" title="Inertia">inertia</a> and <a href="/wiki/Momentum" title="Momentum">momentum</a> in classical mechanics.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> Buridan and <a href="/wiki/Albert_of_Saxony_(philosopher)" title="Albert of Saxony (philosopher)">Albert of Saxony</a> also refer to Abu'l-Barakat in explaining that the acceleration of a falling body is a result of its increasing impetus.<sup id="cite_ref-Gutman_35-0" class="reference"><a href="#cite_note-Gutman-35"><span>[</span>35<span>]</span></a></sup> In the 16th century, <a href="/wiki/Al-Birjandi" title="Al-Birjandi">Al-Birjandi</a> discussed the possibility of the <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">Earth's rotation</a> and, in his analysis of what might occur if the Earth were rotating, developed a hypothesis similar to <a href="/wiki/Galileo" title="Galileo" class="mw-redirect">Galileo</a>'s notion of "circular inertia".<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup> He described it in terms of the following <a href="/wiki/Experiment" title="Experiment">observational test</a>:</p>
+<blockquote class="templatequote">
+<p>"The small or large rock will fall to the Earth along the path of a line that is perpendicular to the plane (<i>sath</i>) of the horizon; this is witnessed by experience (<i>tajriba</i>). And this perpendicular is away from the tangent point of the Earth’s sphere and the plane of the perceived (<i>hissi</i>) horizon. This point moves with the motion of the Earth and thus there will be no difference in place of fall of the two rocks."<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Life_and_death_of_Aristotelian_physics">Life and death of Aristotelian physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=20" title="Edit section: Life and death of Aristotelian physics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Rembrandt_Harmensz._van_Rijn_013.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rembrandt_Harmensz._van_Rijn_013.jpg/200px-Rembrandt_Harmensz._van_Rijn_013.jpg" width="200" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rembrandt_Harmensz._van_Rijn_013.jpg/300px-Rembrandt_Harmensz._van_Rijn_013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rembrandt_Harmensz._van_Rijn_013.jpg/400px-Rembrandt_Harmensz._van_Rijn_013.jpg 2x" data-file-width="5775" data-file-height="6081" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rembrandt_Harmensz._van_Rijn_013.jpg" class="internal" title="Enlarge"></a></div>
+Aristotle depicted by <a href="/wiki/Rembrandt" title="Rembrandt">Rembrandt</a>.</div>
+</div>
+</div>
+<p>The reign of Aristotelian physics, the earliest known speculative theory of physics, lasted almost two millennia. After the work of many pioneers such as <a href="/wiki/Copernicus" title="Copernicus" class="mw-redirect">Copernicus</a>, <a href="/wiki/Galileo" title="Galileo" class="mw-redirect">Galileo</a>, <a href="/wiki/Descartes" title="Descartes" class="mw-redirect">Descartes</a> and <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a>, it became generally accepted that Aristotelian physics was neither correct nor viable.<sup id="cite_ref-ari_5-2" class="reference"><a href="#cite_note-ari-5"><span>[</span>5<span>]</span></a></sup> Despite this, it survived as a scholastic pursuit well into the seventeenth century, until universities amended their curricula.</p>
+<p>In Europe, Aristotle's theory was first convincingly discredited by Galileo's studies. Using a <a href="/wiki/Telescope" title="Telescope">telescope</a>, Galileo observed that the Moon was not entirely smooth, but had craters and mountains, contradicting the Aristotelian idea of the incorruptibly perfect smooth Moon. Galileo also criticized this notion theoretically; a perfectly smooth Moon would reflect light unevenly like a shiny <a href="/wiki/Billiard_ball" title="Billiard ball">billiard ball</a>, so that the edges of the moon's disk would have a different brightness than the point where a tangent plane reflects sunlight directly to the eye. A rough moon reflects in all directions equally, leading to a disk of approximately equal brightness which is what is observed.<sup id="cite_ref-GalileoTwoSystems_38-0" class="reference"><a href="#cite_note-GalileoTwoSystems-38"><span>[</span>38<span>]</span></a></sup> Galileo also observed that <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> has <a href="/wiki/Galilean_moons" title="Galilean moons">moons</a>&#160;– i.e. objects revolving around a body other than the Earth&#160;– and noted the <a href="/wiki/Planetary_phase" title="Planetary phase">phases</a> of Venus, which demonstrated that Venus (and, by implication, Mercury) traveled around the Sun, not the Earth.</p>
+<p>According to legend, Galileo dropped balls of various <a href="/wiki/Density" title="Density">densities</a> from the <a href="/wiki/Leaning_Tower_of_Pisa" title="Leaning Tower of Pisa">Tower of Pisa</a> and found that lighter and heavier ones fell at almost the same speed. His experiments actually took place using balls rolling down inclined planes, a form of falling sufficiently slow to be measured without advanced instruments.</p>
+<p>In a relatively dense medium such as water, a heavier body falls faster than a lighter one. This led Aristotle to speculate that the rate of falling is proportional to the weight and inversely proportional to the density of the medium. From his experience with objects falling in water, he concluded that water is approximately ten times denser than air. By weighing a volume of compressed air, Galileo showed that this overestimates the density of air by a factor of forty.<sup id="cite_ref-GalileoNewSciences_39-0" class="reference"><a href="#cite_note-GalileoNewSciences-39"><span>[</span>39<span>]</span></a></sup> From his experiments with inclined planes, he concluded that if <a href="/wiki/Friction" title="Friction">friction</a> is neglected, all bodies fall at the same rate.</p>
+<p>Galileo also advanced a theoretical argument to support his conclusion. He asked if two bodies of different weights and different rates of fall are tied by a string, does the combined system fall faster because it is now more massive, or does the lighter body in its slower fall hold back the heavier body? The only convincing answer is neither: all the systems fall at the same rate.<sup id="cite_ref-GalileoTwoSystems_38-1" class="reference"><a href="#cite_note-GalileoTwoSystems-38"><span>[</span>38<span>]</span></a></sup></p>
+<p>Followers of Aristotle were aware that the motion of falling bodies was not uniform, but picked up speed with time. Since time is an abstract quantity, the <a href="/wiki/Peripatetic_school" title="Peripatetic school">peripatetics</a> postulated that the speed was proportional to the distance. Galileo established experimentally that the speed is proportional to the time, but he also gave a theoretical argument that the speed could not possibly be proportional to the distance. In modern terms, if the rate of fall is proportional to the distance, the differential equation for the distance y travelled after time t is:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+{dy\over dt} = y
+" src="//upload.wikimedia.org/math/9/9/0/99022328c75738801ec4ae5a106a4719.png" /></dd>
+</dl>
+<p>...with the condition that <img class="mwe-math-fallback-image-inline tex" alt="y(0)=0" src="//upload.wikimedia.org/math/a/8/a/a8a003502e12d9f8da7c69bf1ee0b808.png" />. Galileo demonstrated that this system would stay at <img class="mwe-math-fallback-image-inline tex" alt="y=0" src="//upload.wikimedia.org/math/f/a/b/fab37d6c4a697fe660387d3ff8e889a4.png" /> for all time. If a perturbation set the system into motion somehow, the object would pick up speed exponentially in time, not quadratically.<sup id="cite_ref-GalileoNewSciences_39-1" class="reference"><a href="#cite_note-GalileoNewSciences-39"><span>[</span>39<span>]</span></a></sup></p>
+<p>Standing on the surface of the Moon in 1971, <a href="/wiki/David_Scott" title="David Scott">David Scott</a> famously repeated Galileo's experiment by dropping a feather and a hammer from each hand at the same time. In the absence of a substantial atmosphere, the two objects fell and hit the Moon's surface at the same time.</p>
+<p>The first convincing mathematical theory of gravity&#160;– in which two masses are attracted toward each other by a force whose effect decreases according to the inverse square of the distance between them&#160;– was <a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a>. This, in turn, was replaced by the <a href="/wiki/General_relativity" title="General relativity">General theory of relativity</a> due to <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>.</p>
+<div class="hatnote">Further information: <a href="/wiki/Gravity" title="Gravity">Gravity</a></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="/wiki/Minima_naturalia" title="Minima naturalia">Minima naturalia</a></i>, a <a href="/wiki/Hylomorphism" title="Hylomorphism">hylomorphic</a> concept suggested by Aristotle broadly analogous in <a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic</a> and <a href="/wiki/Scholasticism" title="Scholasticism">Scholastic</a> physical speculation to the <a href="/wiki/Atomism" title="Atomism">atoms</a> of <a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a>.</p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=22" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellspacing="0" cellpadding="0" style="border:1px solid #aaa;padding:1.0em;">
+<tr>
+<td colspan="3" style="padding-bottom:0.25em;">
+<table class="messagebox" style="border: 1px solid #AAA; background: ivory; padding: 0.5em; width: 100%;">
+<tr>
+<td>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><span style="font-size:110%;"><b>Key</b></span>
+<hr />
+<table class="multicol" style=";border-spacing:0;background:transparent;" role="presentation">
+<tr style="vertical-align:top;">
+<td style="width:6.5em;font-size:95%;;text-align:right;;">[?]<br />
+<i><span style="text-decoration:line-through">Strikethrough</span></i></td>
+<td style="width:1.25em;"></td>
+<td style="width:16.0em;font-size:95%;;text-align:left;;">Authenticity disputed.<br />
+Generally agreed to be spurious.</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:90%;line-height:1.0em;padding-right:1.0em;padding-bottom:0.25em;border-bottom:1px solid #aaa;"><a href="/wiki/Bekker_numbers" title="Bekker numbers" class="mw-redirect">Bekker<br />
+number</a></td>
+<td style="font-weight:bold;border-bottom:1px solid #aaa;">Work</td>
+<td style="font-weight:bold;border-bottom:1px solid #aaa;">Latin name</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.5em 0 0.15em;font-size:120%;"><b>Physics</b> <small style="font-size:85%;">(natural philosophy)</small></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">184a</td>
+<td style="font-style:italic;"><a href="/wiki/Physics_(Aristotle)" title="Physics (Aristotle)">Physics</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/physics/">Physica</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">268a</td>
+<td style="font-style:italic;"><a href="/wiki/On_the_Heavens" title="On the Heavens">On the Heavens</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/heavens/">De Caelo</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">314a</td>
+<td style="font-style:italic;"><a href="/wiki/On_Generation_and_Corruption" title="On Generation and Corruption">On Generation and Corruption</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/corruption/">De Generatione et Corruptione</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">338a</td>
+<td style="font-style:italic;"><a href="/wiki/Meteorology_(Aristotle)" title="Meteorology (Aristotle)">Meteorology</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/meteorology/">Meteorologica</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">391a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_the_Universe" title="On the Universe">On the Universe</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De Mundo</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">402a</td>
+<td style="font-style:italic;"><a href="/wiki/On_the_Soul" title="On the Soul">On the Soul</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/a8so/">De Anima</a></td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:0.5em;">&#160;</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"><i><b><a href="/wiki/Parva_Naturalia" title="Parva Naturalia">Parva Naturalia</a></b></i> &#160;<span style="font-size:90%;">("Little Physical Treatises")</span></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">436a</td>
+<td style="padding-left:2.0em;font-style:italic;"><a href="/wiki/Sense_and_Sensibilia_(Aristotle)" title="Sense and Sensibilia (Aristotle)">Sense and Sensibilia</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/sense/">De Sensu et Sensibilibus</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">449b</td>
+<td style="padding-left:2.0em;font-style:italic;"><a href="/wiki/On_Memory" title="On Memory">On Memory</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/memory/">De Memoria et Reminiscentia</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">453b</td>
+<td style="padding-left:2.0em;font-style:italic;"><a href="/wiki/On_Sleep" title="On Sleep">On Sleep</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/sleep/">De Somno et Vigilia</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">458a</td>
+<td style="padding-left:2.0em;font-style:italic;"><a href="/wiki/On_Dreams" title="On Dreams">On Dreams</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/dreams/">De Insomniis</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">462b</td>
+<td style="padding-left:2.0em;font-style:italic;"><a href="/wiki/On_Divination_in_Sleep" title="On Divination in Sleep">On Divination in Sleep</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/prophesy/">De Divinatione per Somnum</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top;padding-right:1.0em;text-align:right;">464b</td>
+<td style="padding-top:0.15em;padding-left:2.0em;line-height:1.25em;font-style:italic;"><a href="/wiki/On_Length_and_Shortness_of_Life" title="On Length and Shortness of Life">On Length and Shortness<br />
+of Life</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/life/">De Longitudine et Brevitate Vitae</a></td>
+</tr>
+<tr>
+<td style="vertical-align:top;padding-right:1.0em;text-align:right;">467b</td>
+<td style="padding-top:0.15em;padding-left:2.0em;line-height:1.25em;font-style:italic;padding-right:1.0em;"><a href="/wiki/On_Youth,_Old_Age,_Life_and_Death,_and_Respiration" title="On Youth, Old Age, Life and Death, and Respiration">On Youth, Old Age, Life<br />
+and Death, and Respiration</a></td>
+<td style="padding-top:0.25em;font-size:90%;line-height:1.2em;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/youth/">De Juventute et Senectute, De<br />
+Vita et Morte, De Respiratione</a></td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:0.5em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">481a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Breath" title="On Breath">On Breath</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De Spiritu</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:0.5em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">486a</td>
+<td style="font-style:italic;"><a href="/wiki/History_of_Animals" title="History of Animals">History of Animals</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://etext.virginia.edu/etcbin/toccer-new2?id=AriHian.xml&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed&amp;tag=public&amp;part=all">Historia Animalium</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">639a</td>
+<td style="font-style:italic;"><a href="/wiki/Parts_of_Animals" title="Parts of Animals">Parts of Animals</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://etext.virginia.edu/etcbin/toccer-new2?id=AriPaan.xml&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed&amp;tag=public&amp;part=all">De Partibus Animalium</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">698a</td>
+<td style="font-style:italic;"><a href="/wiki/Movement_of_Animals" title="Movement of Animals">Movement of Animals</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/motion/">De Motu Animalium</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">704a</td>
+<td style="font-style:italic;"><a href="/wiki/Progression_of_Animals" title="Progression of Animals">Progression of Animals</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://historyofideas.org/etcbin/toccer-new2?id=AriGait.xml&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed&amp;tag=public&amp;part=all">De Incessu Animalium</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">715a</td>
+<td style="font-style:italic;"><a href="/wiki/Generation_of_Animals" title="Generation of Animals">Generation of Animals</a></td>
+<td style="font-size:90%;font-style:italic;"><a rel="nofollow" class="external text" href="http://etext.virginia.edu/etcbin/toccer-new2?id=AriGene.xml&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed&amp;tag=public&amp;part=all">De Generatione Animalium</a></td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:0.5em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">791a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Colors" title="On Colors">On Colors</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De Coloribus</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">800a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Things_Heard" title="On Things Heard">On Things Heard</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De audibilibus</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">805a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/Physiognomonics" title="Physiognomonics">Physiognomonics</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">Physiognomonica</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">815a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Plants" title="On Plants">On Plants</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De Plantis</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">830a</td>
+<td style="font-style:italic;text-decoration:line-through;padding-right:1.0em;"><a href="/wiki/On_Marvellous_Things_Heard" title="On Marvellous Things Heard">On Marvellous Things Heard</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;"><a rel="nofollow" class="external text" href="http://www.archive.org/stream/demirabilibusaus00arisrich/demirabilibusaus00arisrich_djvu.txt">De mirabilibus auscultationibus</a></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">847a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/Mechanics_(Aristotle)" title="Mechanics (Aristotle)">Mechanics</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">Mechanica</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">859a</td>
+<td>[?] <i><a href="/wiki/Problems_(Aristotle)" title="Problems (Aristotle)">Problems</a></i></td>
+<td style="font-size:90%;">[?] <i>Problemata</i></td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">968a</td>
+<td style="font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Indivisible_Lines" title="On Indivisible Lines">On Indivisible Lines</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">De Lineis Insecabilibus</td>
+</tr>
+<tr>
+<td style="padding-right:1.0em;text-align:right;">973a</td>
+<td style="padding-top:0.15em;line-height:1.25em;font-style:italic;text-decoration:line-through;"><a href="/wiki/The_Situations_and_Names_of_Winds" title="The Situations and Names of Winds">The Situations and Names<br />
+of Winds</a></td>
+<td style="font-size:90%;font-style:italic;text-decoration:line-through;">Ventorum Situs</td>
+</tr>
+<tr style="vertical-align:top;padding-bottom:0.5em;">
+<td style="padding-right:1.0em;text-align:right;">974a</td>
+<td style="padding-top:0.15em;line-height:1.25em;font-style:italic;text-decoration:line-through;"><a href="/wiki/On_Melissus,_Xenophanes,_and_Gorgias" title="On Melissus, Xenophanes, and Gorgias">On Melissus, Xenophanes,<br />
+and Gorgias</a></td>
+<td>
+<p><br /></p>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=23" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<p><b>a</b> <span class="citation wikicite" id="endnote_Anone"><a href="#ref_Anone"><b><sup>^</sup></b></a></span> Here, the term "Earth" does not refer to planet <a href="/wiki/Earth" title="Earth">Earth</a>, known by modern science to be composed of a large number of <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a>. Modern chemical elements are not conceptually similar to Aristotle's elements; the term "air", for instance, does not refer to breathable <a href="/wiki/Air" title="Air" class="mw-redirect">air</a>.</p>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Lang2007-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lang2007_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lang, H.S. (2007). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=me_pKWN2p_0C&amp;pg=PA290"><i>The Order of Nature in Aristotle's Physics: Place and the Elements</i></a>. Cambridge University Press. p.&#160;290. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780521042291" title="Special:BookSources/9780521042291">9780521042291</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.aufirst=H.S.&amp;rft.aulast=Lang&amp;rft.btitle=The+Order+of+Nature+in+Aristotle%27s+Physics%3A+Place+and+the+Elements&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dme_pKWN2p_0C%26pg%3DPA290&amp;rft.isbn=9780521042291&amp;rft.pages=290&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-White2009-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-White2009_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">White, Michael J. (2009). "Aristotle on the Infinite, Space, and Time". <i>Blackwell Companion to Aristotle</i>. p.&#160;260.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Aristotle+on+the+Infinite%2C+Space%2C+and+Time&amp;rft.aufirst=Michael+J.&amp;rft.aulast=White&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.pages=260&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-utk-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-utk_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://csep10.phys.utk.edu/astr161/lect/history/aristotle_dynamics.html">"Physics of Aristotle vs. The Physics of Galileo"</a>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090411072007/http://csep10.phys.utk.edu/astr161/lect/history/aristotle_dynamics.html">Archived</a> from the original on 11 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.btitle=Physics+of+Aristotle+vs.+The+Physics+of+Galileo&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcsep10.phys.utk.edu%2Fastr161%2Flect%2Fhistory%2Faristotle_dynamics.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-edu-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-edu_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-edu_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hep.fsu.edu/~wahl/Quarknet/pepperlect/aristogalnewt.pdf">"www.hep.fsu.edu"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">26 March</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.btitle=www.hep.fsu.edu&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hep.fsu.edu%2F~wahl%2FQuarknet%2Fpepperlect%2Faristogalnewt.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ari-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ari_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ari_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ari_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://aether.lbl.gov/www/classes/p10/aristotle-physics.html">"Aristotle's physics"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.btitle=Aristotle%27s+physics&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Faether.lbl.gov%2Fwww%2Fclasses%2Fp10%2Faristotle-physics.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Aristotle, <a href="/wiki/Meteorology_(Aristotle)" title="Meteorology (Aristotle)">meteorology</a>.</span></li>
+<li id="cite_note-Sorabji2005-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sorabji2005_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Sorabji, R. (2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=0QpQw8JDgQcC&amp;lpg=PA352&amp;pg=PA352"><i>The Philosophy of the Commentators, 200-600 AD: Physics</i></a>. G - Reference, Information and Interdisciplinary Subjects Series. Cornell University Press. p.&#160;352. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8014-8988-4" title="Special:BookSources/978-0-8014-8988-4">978-0-8014-8988-4</a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="http://lccn.loc.gov/2004063547">2004063547</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.aufirst=R.&amp;rft.aulast=Sorabji&amp;rft.btitle=The+Philosophy+of+the+Commentators%2C+200-600+AD%3A+Physics&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0QpQw8JDgQcC%26lpg%3DPA352%26pg%3DPA352&amp;rft.isbn=978-0-8014-8988-4&amp;rft.lccn=2004063547&amp;rft.pages=352&amp;rft.pub=Cornell+University+Press&amp;rft.series=G+-+Reference%2C+Information+and+Interdisciplinary+Subjects+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Aristotle, <i>Physics</i> 194 b17–20; see also: <span class="nowrap"><i>Posterior Analytics</i> 71 b9–11; 94 a20.</span></span></li>
+<li id="cite_note-SEP_Four_Causes-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-SEP_Four_Causes_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SEP_Four_Causes_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/aristotle-causality/#FouCau">"Four Causes"</a>. Falcon, Andrea. <a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/aristotle-causality/">Aristotle on Causality</a>. <i>Stanford Encyclopedia of Philosophy</i> 2008. <strong class="error mw-ext-cite-error">Cite error: Invalid <code>&lt;ref&gt;</code> tag; name "SEP_Four_Causes" defined multiple times with different content (see the <a href="/wiki/Help:Cite_errors/Cite_error_references_duplicate_key" title="Help:Cite errors/Cite error references duplicate key">help page</a>).</strong></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFAristotle" class="citation">Aristotle, "Book 5, section 1013a", <a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D5%3Asection%3D1013a"><i>Metaphysics</i></a>, Hugh Tredennick (trans.)</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Book+5%2C+section+1013a&amp;rft.au=Aristotle&amp;rft.btitle=Metaphysics&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.perseus.tufts.edu%2Fhopper%2Ftext%3Fdoc%3DPerseus%253Atext%253A1999.01.0052%253Abook%253D5%253Asection%253D1013a&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Aristotle in 23 Volumes, Vols. 17, 18, Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1933, 1989; (hosted at perseus.tufts.edu.) Aristotle also discusses the four causes in his Physics, Book B, chapter 3.</span></li>
+<li id="cite_note-bca-216-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-bca-216_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bca-216_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hankinson, R.J. "The Theory of the Physics". <i>Blackwell Companion to Aristotle</i>. p.&#160;216.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=The+Theory+of+the+Physics&amp;rft.aufirst=R.J.&amp;rft.aulast=Hankinson&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.genre=bookitem&amp;rft.pages=216&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bca-217-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-bca-217_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bca-217_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hankinson, R.J. "Causes". <i>Blackwell Companion to Aristotle</i>. p.&#160;217.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Causes&amp;rft.aufirst=R.J.&amp;rft.aulast=Hankinson&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.genre=bookitem&amp;rft.pages=217&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Aristotle. <i>Parts of Animals I.1</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.au=Aristotle&amp;rft.btitle=Parts+of+Animals+I.1&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bca-218-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-bca-218_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hankinson, R.J. "Causes". <i>Blackwell Companion to Aristotle</i>. p.&#160;218.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Causes&amp;rft.aufirst=R.J.&amp;rft.aulast=Hankinson&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.genre=bookitem&amp;rft.pages=218&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Henry2009-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Henry2009_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Henry2009_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Henry, Devin M. (2009). "Generation of Animals". <i>Blackwell Companion to Aristotle</i>. p.&#160;368.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Generation+of+Animals&amp;rft.aufirst=Devin+M.&amp;rft.aulast=Henry&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.pages=368&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bca-222-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-bca-222_16-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hankinson, R.J. "Causes". <i>Blackwell Companion to Aristotle</i>. p.&#160;222.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Causes&amp;rft.aufirst=R.J.&amp;rft.aulast=Hankinson&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.genre=bookitem&amp;rft.pages=222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Caston2009-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Caston2009_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Caston2009_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Caston, Victor (2009). "Phantasia and Thought". <i>Blackwell Companion to Aristotle</i>. pp.&#160;322–2233.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Phantasia+and+Thought&amp;rft.aufirst=Victor&amp;rft.aulast=Caston&amp;rft.btitle=Blackwell+Companion+to+Aristotle&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.pages=322-2233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><i><a href="/wiki/De_Caelo" title="De Caelo" class="mw-redirect">De Caelo</a></i> II. 13-14.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">For instance, by <a href="/wiki/Simplicius_of_Cilicia" title="Simplicius of Cilicia">Simplicius</a> in his <i>Corollaries on Place</i>.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">El-Bizri, Nader (2007). "In Defence of the Sovereignty of Philosophy: al-Baghdadi's Critique of Ibn al-Haytham's Geometrisation of Place". <i>Arabic Sciences and Philosophy (Cambridge University Press)</i> <b>17</b>: 57–80. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2Fs0957423907000367">10.1017/s0957423907000367</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=In+Defence+of+the+Sovereignty+of+Philosophy%3A+al-Baghdadi%27s+Critique+of+Ibn+al-Haytham%27s+Geometrisation+of+Place&amp;rft.aufirst=Nader&amp;rft.aulast=El-Bizri&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1017%2Fs0957423907000367&amp;rft.jtitle=Arabic+Sciences+and+Philosophy+%28Cambridge+University+Press%29&amp;rft.pages=57-80&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MaudlinPPST2-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-MaudlinPPST2_21-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Tim_Maudlin" title="Tim Maudlin">Tim Maudlin</a> (2012-07-22). <i>Philosophy of Physics: Space and Time: Space and Time</i> (Princeton Foundations of Contemporary Philosophy) (p. 2). Princeton University Press. Kindle Edition. "The element earth's natural motion is to fall— that is, to move downward. Water also strives to move downward but with less initiative than earth: a stone will sink though water, demonstrating its overpowering natural tendency to descend. Fire naturally rises, as anyone who has watched a bonfire can attest, as does air, but with less vigor."</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Bodnar, Istvan, <a rel="nofollow" class="external text" href="http://plato.stanford.edu/archives/spr2012/entries/aristotle-natphil/">"Aristotle's Natural Philosophy"</a> in <i>The Stanford Encyclopedia of Philosophy</i> (Spring 2012 Edition, ed. Edward N. Zalta).</span></li>
+<li id="cite_note-Gindikin1988-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gindikin1988_23-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gindikin, S.G. (1988). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=Vhx--jfFN8IC&amp;pg=PA29"><i>Tales of Physicists and Mathematicians</i></a>. Birkh. p.&#160;29. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780817633172" title="Special:BookSources/9780817633172">9780817633172</a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="http://lccn.loc.gov/87024971">87024971</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.aufirst=S.G.&amp;rft.aulast=Gindikin&amp;rft.btitle=Tales+of+Physicists+and+Mathematicians&amp;rft.date=1988&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVhx--jfFN8IC%26pg%3DPA29&amp;rft.isbn=9780817633172&amp;rft.lccn=87024971&amp;rft.pages=29&amp;rft.pub=Birkh&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Lindberg, D. (2008), <i>The beginnings of western science: The European scientific tradition in philosophical, religious, and institutional context, prehistory to AD 1450</i> (2nd ed.), <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">University of Chicago Press</a>.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Land, Helen, <i>The Order of Nature in Aristotle's Physics: Place and the Elements</i> (1998).</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tully; Shaya; Karachentsev; Courtois; Kocevski; Rizzi; Peel (2008). <a rel="nofollow" class="external text" href="http://stacks.iop.org/0004-637X/676/i=1/a=184">"Our Peculiar Motion Away From the Local Void"</a>. <i>The Astrophysical Journal</i> <b>676</b> (1): 184. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0705.4139">0705.4139</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008ApJ...676..184T">2008ApJ...676..184T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F527428">10.1086/527428</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Our+Peculiar+Motion+Away+From+the+Local+Void&amp;rft.au=Courtois&amp;rft.au=Karachentsev&amp;rft.au=Kocevski&amp;rft.au=Peel&amp;rft.au=Rizzi&amp;rft.au=Shaya&amp;rft.au=Tully&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fstacks.iop.org%2F0004-637X%2F676%2Fi%3D1%2Fa%3D184&amp;rft_id=info%3Aarxiv%2F0705.4139&amp;rft_id=info%3Abibcode%2F2008ApJ...676..184T&amp;rft_id=info%3Adoi%2F10.1086%2F527428&amp;rft.issue=1&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.pages=184&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=676" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a href="/wiki/Aydin_Sayili" title="Aydin Sayili" class="mw-redirect">Aydin Sayili</a> (1987), "Ibn Sīnā and Buridan on the Motion of the Projectile", <i>Annals of the New York Academy of Sciences</i> 500 (1): 477–482 [477]:</span>
+<blockquote class="templatequote">
+<p><span class="reference-text">According to Aristotle, continuation of motion depends on continued action of a force. The motion of a hurled body, therefore, requires elucidation. Aristotle maintained that the air of the atmosphere was responsible for the continuation of such motion. John Philoponos of the 6th century rejected this Aristotelian view. He claimed that the hurled body acquires a motive power or an inclination for forced movement from the agent producing the initial motion and that this power or condition and not the ambient medium secures the continuation of such motion. According to Philoponos this impressed virtue was temporary. It was a self-expending inclination, and thus the violent motion thus produced comes to an end and changes into natural motion. Ibn Sina adopted this idea in its rough outline, but the violent inclination as he conceived it was a non-self-consuming one. It was a permanent force whose effect got dissipated only as a result of external agents such as air resistance. He is apparently the first to conceive such a permanent type of impressed virtue for non-natural motion.&#160;[...] Indeed, self-motion of the type conceived by Ibn Sina is almost the opposite of the Aristotelian conception of violent motion of the projectile type, and it is rather reminiscent of the principle of inertia, i.e., Newton's first law of motion.</span></p>
+</blockquote>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Duhem, Pierre (1908, 1969). <i>To Save the Phenomena: An Essay on the Idea of Physical theory from Plato to Galileo</i>, University of Chicago Press, Chicago, p.&#160;28.</span></li>
+<li id="cite_note-Biruni-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Biruni_29-0">^</a></b></span> <span class="reference-text"><cite class="citation"><a href="/wiki/John_J._O%27Connor_(mathematician)" title="John J. O'Connor (mathematician)" class="mw-redirect">O'Connor, John J.</a>; <a href="/wiki/Edmund_F._Robertson" title="Edmund F. Robertson">Robertson, Edmund F.</a>, <a rel="nofollow" class="external text" href="http://www-history.mcs.st-andrews.ac.uk/Biographies/Al-Biruni.html">"Al-Biruni"</a>, <i><a href="/wiki/MacTutor_History_of_Mathematics_archive" title="MacTutor History of Mathematics archive">MacTutor History of Mathematics archive</a></i>, <a href="/wiki/University_of_St_Andrews" title="University of St Andrews">University of St Andrews</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Al-Biruni&amp;rft.aufirst=John+J.&amp;rft.aulast=O%27Connor&amp;rft.au=Robertson%2C+Edmund+F.&amp;rft.btitle=MacTutor+History+of+Mathematics+archive&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww-history.mcs.st-andrews.ac.uk%2FBiographies%2FAl-Biruni.html&amp;rft.pub=University+of+St+Andrews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-Berjak-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Berjak_30-0">^</a></b></span> <span class="reference-text">Rafik Berjak and Muzaffar Iqbal, "Ibn Sina--Al-Biruni correspondence", <i>Islam &amp; Science</i>, June 2003.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Mariam Rozhanskaya and I. S. Levinova (1996), "Statics", in Roshdi Rashed, ed., <i><a href="/wiki/Encyclopedia_of_the_History_of_Arabic_Science" title="Encyclopedia of the History of Arabic Science">Encyclopedia of the History of Arabic Science</a></i>, vol.&#160;2, pp.&#160;614–642 [621-622]. (<a href="/wiki/Routledge" title="Routledge">Routledge</a>, London and New York.)</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/Shlomo_Pines" title="Shlomo Pines">Shlomo Pines</a> (1970). "Abu'l-Barakāt al-Baghdādī, Hibat Allah". <i><a href="/wiki/Dictionary_of_Scientific_Biography" title="Dictionary of Scientific Biography">Dictionary of Scientific Biography</a></i> <b>1</b>. New York: Charles Scribner's Sons. pp.&#160;26–28. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-684-10114-9" title="Special:BookSources/0-684-10114-9">0-684-10114-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Abu%27l-Barak%C4%81t+al-Baghd%C4%81d%C4%AB%2C+Hibat+Allah&amp;rft.au=Shlomo+Pines&amp;rft.btitle=Dictionary+of+Scientific+Biography&amp;rft.date=1970&amp;rft.genre=bookitem&amp;rft.isbn=0-684-10114-9&amp;rft.pages=26-28&amp;rft.place=New+York&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span><br />
+(<a href="/wiki/Cf." title="Cf.">cf.</a> Abel B. Franco (October 2003). "Avempace, Projectile Motion, and Impetus Theory", <i>Journal of the History of Ideas</i> <b>64</b> (4), pp.&#160;521–546 [528].)</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">A. C. Crombie, <i>Augustine to Galileo 2</i>, p. 67.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a href="/wiki/Aydin_Sayili" title="Aydin Sayili" class="mw-redirect">Aydin Sayili</a> (1987), "Ibn Sīnā and Buridan on the Motion of the Projectile", <i>Annals of the New York Academy of Sciences</i> 500 (1): 477–482</span></li>
+<li id="cite_note-Gutman-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gutman_35-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGutman2003" class="citation book">Gutman, Oliver (2003). <i>Pseudo-Avicenna, Liber Celi Et Mundi: A Critical Edition</i>. <a href="/wiki/Brill_Publishers" title="Brill Publishers">Brill Publishers</a>. p.&#160;193. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-04-13228-7" title="Special:BookSources/90-04-13228-7">90-04-13228-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.aufirst=Oliver&amp;rft.aulast=Gutman&amp;rft.btitle=Pseudo-Avicenna%2C+Liber+Celi+Et+Mundi%3A+A+Critical+Edition&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=90-04-13228-7&amp;rft.pages=193&amp;rft.pub=Brill+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">(<a href="#CITEREFRagep2001b">Ragep 2001b</a>, pp.&#160;63–4)</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">(<a href="#CITEREFRagep2001a">Ragep 2001a</a>, pp.&#160;152–3)</span></li>
+<li id="cite_note-GalileoTwoSystems-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-GalileoTwoSystems_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GalileoTwoSystems_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Galileo Galilei, <i><a href="/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems" title="Dialogue Concerning the Two Chief World Systems">Dialogue Concerning the Two Chief World Systems</a></i>.</span></li>
+<li id="cite_note-GalileoNewSciences-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-GalileoNewSciences_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GalileoNewSciences_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Galileo Galilei, <i><a href="/wiki/Two_New_Sciences" title="Two New Sciences">Two New Sciences</a></i>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=25" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFRagep2001a" class="citation journal">Ragep, F. Jamil (2001a). "Tusi and Copernicus: The Earth's Motion in Context". <i>Science in Context</i> (<a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>) <b>14</b> (1–2): 145–163. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2Fs0269889701000060">10.1017/s0269889701000060</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Tusi+and+Copernicus%3A+The+Earth%27s+Motion+in+Context&amp;rft.aufirst=F.+Jamil&amp;rft.aulast=Ragep&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1017%2Fs0269889701000060&amp;rft.issue=1%E2%80%932&amp;rft.jtitle=Science+in+Context&amp;rft.pages=145-163&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFRagepAl-Qushji2001b" class="citation journal">Ragep, F. Jamil; Al-Qushji, Ali (2001b). "Freeing Astronomy from Philosophy: An Aspect of Islamic Influence on Science". <i>Osiris, 2nd Series</i> <b>16</b> (Science in Theistic Contexts: Cognitive Dimensions): 49–64 and 66–71. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001Osir...16...49R">2001Osir...16...49R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F649338">10.1086/649338</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAristotelian+physics&amp;rft.atitle=Freeing+Astronomy+from+Philosophy%3A+An+Aspect+of+Islamic+Influence+on+Science&amp;rft.au=Al-Qushji%2C+Ali&amp;rft.aufirst=F.+Jamil&amp;rft.aulast=Ragep&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2001Osir...16...49R&amp;rft_id=info%3Adoi%2F10.1086%2F649338&amp;rft.issue=Science+in+Theistic+Contexts%3A+Cognitive+Dimensions&amp;rft.jtitle=Osiris%2C+2nd+Series&amp;rft.pages=49-64+and+66-71&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>H. Carteron (1965) "Does Aristotle Have a Mechanics?" in <i>Articles on Aristotle 1. Science</i> eds. Jonathan Barnes, Malcolm Schofield, Richard Sorabji (London: General Duckworth and Company Limited), 161-174.</li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit&amp;section=26" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Katalin Martinás, “Aristotelian Thermodynamics” in <i>Thermodynamics: history and philosophy: facts, trends, debates</i> (Veszprém, Hungary 23–28 July 1990), pp.&#160;285–303.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1111
+Cached time: 20151103051322
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.611 seconds
+Real time usage: 0.757 seconds
+Preprocessor visited node count: 3797/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95743/2097152 bytes
+Template argument size: 16590/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 5.42 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  601.336      1 - -total
+ 38.30%  230.306      1 - Template:Reflist
+ 12.92%   77.679     12 - Template:Cite_book
+  8.02%   48.223      1 - Template:Aristotelianism
+  7.94%   47.769      1 - Template:Corpus_Aristotelicum_table
+  7.50%   45.127      1 - Template:Lead_rewrite
+  7.49%   45.050      2 - Template:Ambox
+  7.44%   44.767     11 - Template:Quote
+  6.37%   38.311      1 - Template:Use_dmy_dates
+  5.74%   34.535      2 - Template:Broken_ref
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10279126-0!*!0!!en!4!*!math=0 and timestamp 20151103051321 and revision id 688301041
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aristotelian_physics&amp;oldid=688301041">https://en.wikipedia.org/w/index.php?title=Aristotelian_physics&amp;oldid=688301041</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aristotle" title="Category:Aristotle">Aristotle</a></li><li><a href="/wiki/Category:History_of_physics" title="Category:History of physics">History of physics</a></li><li><a href="/wiki/Category:Natural_philosophy" title="Category:Natural philosophy">Natural philosophy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_reference_errors" title="Category:Pages with reference errors">Pages with reference errors</a></li><li><a href="/wiki/Category:Pages_with_duplicate_reference_names" title="Category:Pages with duplicate reference names">Pages with duplicate reference names</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_February_2012" title="Category:Wikipedia introduction cleanup from February 2012">Wikipedia introduction cleanup from February 2012</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_February_2012" title="Category:Articles covered by WikiProject Wikify from February 2012">Articles covered by WikiProject Wikify from February 2012</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2010" title="Category:Articles lacking reliable references from September 2010">Articles lacking reliable references from September 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2010" title="Category:Articles with failed verification from May 2010">Articles with failed verification from May 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aristotelian+physics&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aristotelian+physics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Aristotelian_physics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Aristotelian_physics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Aristotelian_physics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Aristotelian_physics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Aristotelian_physics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aristotelian_physics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aristotelian_physics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aristotelian_physics&amp;oldid=688301041" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aristotelian_physics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1248980" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aristotelian_physics&amp;id=688301041" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Aristotelian+physics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Aristotelian+physics&amp;returnto=Aristotelian+physics&amp;oldid=688301041&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aristotelian_physics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1_%D8%A3%D8%B1%D8%B3%D8%B7%D9%8A%D8%A9" title="فيزياء أرسطية – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A4%D1%96%D0%B7%D1%96%D0%BA%D0%B0_%D0%90%D1%80%D1%8B%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BB%D1%8F" title="Фізіка Арыстоцеля – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/F%C3%ADsica_aristot%C3%A8lica" title="Física aristotèlica – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/F%C3%ADsica_aristot%C3%A9lica" title="Física aristotélica – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Aristotela_fiziko" title="Aristotela fiziko – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Fisica_aristotelica" title="Fisica aristotelica – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94_%D7%A9%D7%9C_%D7%90%D7%A8%D7%99%D7%A1%D7%98%D7%95" title="הפיזיקה של אריסטו – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Physica_Aristotelea" title="Physica Aristotelea – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Aristote%C4%BCa_fizika" title="Aristoteļa fizika – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Teoria_aristot%C3%A9lica_da_gravita%C3%A7%C3%A3o" title="Teoria aristotélica da gravitação – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0_%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B5%D0%BB%D1%8F" title="Физика Аристотеля – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Aristoteleen_painovoimateoria" title="Aristoteleen painovoimateoria – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Aristoteles_fysik" title="Aristoteles fysik – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7%E7%89%A9%E7%90%86%E5%AD%A6" title="亚里士多德物理学 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1248980#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 October 2015, at 00:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aristotelian_physics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.4/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.4/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.4/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1251"}); /* @nomin */
+} );</script>
+	</body>
+</html>

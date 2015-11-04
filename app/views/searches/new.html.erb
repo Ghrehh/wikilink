@@ -1,0 +1,9 @@
+<%= form_for @search do |f| %>
+    <%= f.label :search_phrase, class: 'new-post-label' %>
+    <%= f.text_field :search_phrase, autofocus: true, class: 'new-post-title' %>
+    
+    <%= f.label :start_url, class: 'new-post-label' %>
+    <%= f.text_field :start_url, autofocus: true, class: 'new-post-title' %>
+    
+      <%= f.submit 'Update Post', class: "new-post-button" %>
+  <% end %>
