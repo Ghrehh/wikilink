@@ -26,7 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'nokogiri'
 gem 'puma'
 gem 'responders', '~> 2.0' #lets me use respond to js
-gem 'sidekiq'
+gem 'sucker_punch', '~> 1.0'
 
 
 group :development, :test do
