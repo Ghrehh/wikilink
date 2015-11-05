@@ -1,4 +1,8 @@
-<% @searches.each do |search| %>
-  <%= link_to search.id.to_s, search_path(search.id) %>
-  <br>
-<% end %>
+<div class="search-show-container">
+  <p class="search-show-header">Previous Searches</p>
+  <% @searches.reverse.each do |search| %>
+  <div>
+    <%= link_to"Starting on: (" + search.start_url + ") searching for: (" + search.search_phrase + ")", search_path(search.id) %>
+    </div>
+  <% end %>
+</div>

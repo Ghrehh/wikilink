@@ -2,15 +2,15 @@
   <p class="search-show-header">Searching for: <strong><%= @search.search_phrase %></strong> starting on: <strong><%= @search.start_url %> </p></strong>
   
   <% if @search.finished == false %>
-    <%= link_to "REFRESH", search_path(@search.id), :remote => true, class: "search-show-refresh" %>
+    <%= link_to "REFRESH", search_path(@search.id), :remote => true, class: "search-show-center" %>
   <% end %>
   
   <% if @search.found_result %>
-    <p>FOUND <strong><%= @search.search_phrase %></strong> on <%= link_to @search.sites.last.url, "https://wikipedia.org" + @search.sites.last.url %> </p>
+    <p class="search-show-center">FOUND <strong><%= @search.search_phrase %></strong> on <%= link_to @search.sites.last.url, "https://wikipedia.org" + @search.sites.last.url %> </p>
   <% end %>
 
   <% if @search.found_result == false && @search.finished %>
-    <p>Unable to find your search after 500 pages :( </p>
+    <p class="search-show-center">Unable to find your search after 500 pages :( </p>
   <% end %>
   
   <% @search.sites.each_with_index do |site, index| %>
