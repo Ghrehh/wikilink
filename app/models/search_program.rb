@@ -24,21 +24,34 @@ class SearchProgram < ActiveRecord::Base
   
   def run
     
-    until @search_counter > 200 || @valid_initial_url == false
+    until @search_counter > 500 || @valid_initial_url == false
       get_raw_html
       break if @valid_initial_url == false
       create_site
       search_page
-      break if @found_search || @search_counter > 199
+      break if @found_search
       parse_html
       get_valid_link
       select_new_link
     end
     
-    if @valid_initial_url == false
+    if @valid_initial_url == false #sets all the parameters in the model on a completed search, i can refactor this but cba atm
       puts "invalid link" 
-      
+      search = Search.where(id: @search_id)[0]
+      search.failed = true
+      search.save
     end
+
+    if @found_search == true
+      search = Search.where(id: @search_id)[0]
+      search.found_result = true
+      search.save
+    end
+    
+     search = Search.where(id: @search_id)[0]
+     search.finished = true
+     search.save
+    
   end
   
   

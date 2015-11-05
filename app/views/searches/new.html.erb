@@ -1,9 +1,25 @@
+<div class="new-search-text-container">
+  <p class="new-search-text">
+    Wikilink is a fairly useless tool that charts the path between a Wikipedia page and a search term, clicking the first link on the page until it finds what you're looking for.
+  </p>
+  
+  <p class="new-search-text">
+    You can then, with 100% accuracy, tell how close something is to something else. No joke. This is science.
+  </p>
+</div>
+
 <%= form_for @search do |f| %>
-    <%= f.label :search_phrase, class: 'new-post-label' %>
-    <%= f.text_field :search_phrase, autofocus: true, class: 'new-post-title' %>
+
+    <div class="form-container">
+      <p class='search-form-label start-url-label'>Start URL</p>
+      <p class='start-url-form-placeholder'>http://wikipedia.org/wiki/</p>
+      <%= f.text_field :start_url, autofocus: true, class: 'search-form start-url-form' %>
+    </div>
     
-    <%= f.label :start_url, class: 'new-post-label' %>
-    <%= f.text_field :start_url, autofocus: true, class: 'new-post-title' %>
+    <div class="form-container">
+      <p class='search-form-label start-url-label'>Search Phrase</p>
+      <%= f.text_field :search_phrase, autofocus: true, class: 'search-form search-phrase-form' %>
+      <%= f.submit 'Search', class: "search-button" %>
+    </div>
     
-      <%= f.submit 'Update Post', class: "new-post-button" %>
-  <% end %>
+<% end %>

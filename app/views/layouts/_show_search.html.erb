@@ -1,6 +1,41 @@
-<% @search.sites.each do |site| %>
-  <%= site.url %>
-  <br>
-<% end %>
-<br>
-<%= link_to "REFRESH", search_path(@search.id), :remote => true %>
+<div class="search-show-container">
+  <p class="search-show-header">Searching for: <strong><%= @search.search_phrase %></strong> starting on: <strong><%= @search.start_url %> </p></strong>
+  
+  <% if @search.finished == false %>
+    <%= link_to "REFRESH", search_path(@search.id), :remote => true, class: "search-show-refresh" %>
+  <% end %>
+  
+  <% if @search.found_result %>
+    <p>FOUND <strong><%= @search.search_phrase %></strong> on <%= link_to @search.sites.last.url, "https://wikipedia.org" + @search.sites.last.url %> </p>
+  <% end %>
+
+  <% if @search.found_result == false && @search.finished %>
+    <p>Unable to find your search after 500 pages :( </p>
+  <% end %>
+  
+  <% @search.sites.each_with_index do |site, index| %>
+    <div class="search-show-inner">
+      <p class="search-show-number">
+        <% if index < 9 %>
+          (00<%=index + 1 %>)
+        <% elsif index < 99 %>
+          (0<%=index + 1 %>)
+        <% else %>
+          (<%=index + 1 %>)
+        <% end %>
+      </p>
+      <%= link_to site.url, "https://wikipedia.org" + site.url, class: "search-show-link" %>
+    </div>
+  <% end %>
+  
+  
+  <% if @search.failed %>
+    <p>SEARCH FAILED</p>
+  <% end %>
+  
+  <% if @search.finished == false %>
+    <%= link_to "REFRESH", search_path(@search.id), :remote => true, class: "search-show-refresh" %>
+  <% end %>
+  
+
+</div>

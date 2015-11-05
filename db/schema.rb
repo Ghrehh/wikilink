@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151103173949) do
+ActiveRecord::Schema.define(version: 20151104204720) do
 
   create_table "search_programs", force: :cascade do |t|
     t.datetime "created_at", null: false
@@ -25,6 +25,7 @@ ActiveRecord::Schema.define(version: 20151103173949) do
     t.boolean  "finished",      default: false, null: false
     t.datetime "created_at",                    null: false
     t.datetime "updated_at",                    null: false
+    t.boolean  "found_result",  default: false, null: false
   end
 
   create_table "sites", force: :cascade do |t|

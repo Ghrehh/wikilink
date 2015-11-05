@@ -11,7 +11,6 @@ class SearchesController < ApplicationController
   def create
     @search = Search.create(search_params)
     LogJob.new.async.perform(@search.start_url, @search.search_phrase, @search.id)
-    #HardWorker.perform_async(@search.start_url, @search.search_phrase, @search.id)
     redirect_to @search
   end
   

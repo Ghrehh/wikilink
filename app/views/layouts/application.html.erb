@@ -5,10 +5,21 @@
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+<script src="https://use.typekit.net/vnx2grk.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
 <body>
+  
+<div class="header">
+  <h3 class="header-title">WikiLink</h1>
+  <%= link_to "Index", searches_path, class: "header-link header-link-index" %>
+  <p class="header-link header-link-divider">|</p>
+  <%= link_to "New Search", new_search_path, class: "header-link header-link-new-search" %>
+</div>
 
-<%= yield %>
+<div class="body-container">
+  <%= yield %>
+</div>
 
 </body>
 </html>
