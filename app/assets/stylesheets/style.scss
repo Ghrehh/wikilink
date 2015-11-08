@@ -144,3 +144,51 @@ body {
   text-align:center;
   display: block;
 }
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    
+    //NEW SEARCH
+    
+    html, body, .body-container {
+      width: 100%;
+    }
+    
+    .form-container {
+      width: 95%;
+    }
+    
+    
+    .new-search-text-container {
+      width: 92%;
+    }
+    
+    .new-search-text {
+      font-size: 18px;
+    }
+    
+    .start-url-form-placeholder {
+      font-size: 13px;
+      padding-top: 4.5px;
+    }
+    
+    .search-phrase-form {
+      width: 75%;
+    }
+    
+    .search-button {
+      width: 19%;
+    }
+    
+    //INDEX
+    
+    .search-show-container {
+      width: 100%;
+    }
+    
+    .search-show-container > div > a {
+      font-size: 15px;
+    }
+  }

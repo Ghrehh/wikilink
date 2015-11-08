@@ -24,7 +24,11 @@
           (<%=index + 1 %>)
         <% end %>
       </p>
-      <%= link_to site.url, "https://wikipedia.org" + site.url, class: "search-show-link" %>
+      <% if site.url.length > 30 %>
+        <%= link_to site.url.to_s[0..31] + "...", "https://wikipedia.org" + site.url, class: "search-show-link" %>
+      <% else %>
+        <%= link_to site.url, "https://wikipedia.org" + site.url, class: "search-show-link" %>
+      <% end %>
     </div>
   <% end %>
   
